@@ -29,7 +29,7 @@ Gère l'affichage graphique et les interactions utilisateur sans effectuer de ca
 2.Un émulateur Android/iOS ou un appareil physique connecté en mode USB Debugging.
 
 ### Étapes d'exécution
-Dans votre 
+Dans votre terminal
 
 Récupérer les dépendances :
 
